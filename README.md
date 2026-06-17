@@ -16,12 +16,12 @@
 
 ## About Me
 
-6th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Currently hunting for AI/ML engineering internships in Karachi.
+6th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Currently a Clinical Intern in the CyberKnife Radiosurgery Unit at JPMC, and applying to international research internship programs for summer 2026.
 
 - 🔬 Research in ML-based mental health screening & VR medical simulation
 - 🤖 Passionate about embedded systems, robotics, and agentic AI pipelines
 - 📡 Freelance math tutor (O-Level & SAT) on the side
-- 🎯 Building [PHANTOM](https://github.com/azlaan428/Phantom) — a stealth founder intelligence platform
+- 🥽 Designing an EDITH-inspired smart glasses system as my Final Year Project, focused on neurological monitoring (dementia and epilepsy)
 
 ---
 
@@ -39,6 +39,9 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -46,21 +49,23 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [PHANTOM](https://github.com/azlaan428/Phantom) | Stealth founder intelligence platform — surfaces early-stage builders before they raise, scored via a Stealth Signal Score | Flask, LangGraph, Bright Data |
-| [ARIA](https://github.com/azlaan428/aria) | Five-agent autonomous research pipeline with PRISMA filtering and SSE streaming | LangGraph, LangChain, Groq, Flask |
+| [ARIA](https://github.com/azlaan428/glitch-squad-biomedical-assistant) | 4-stage LangGraph pipeline for automated, cited biomedical literature review with SSE streaming and real-time confidence scoring. Built for the AMD Developer Hackathon 2026; runs on a Groq backend with a live demo on Hugging Face Spaces | LangGraph, LangChain, Groq, Flask, ReportLab |
+| [VERDICT](https://github.com/azlaan428/verdict) | Multi-agent candidate evaluation system scoring across three domains — Research Admission, Corporate Hiring, and Compliance Screening — with bias auditing and a composite Stealth Signal Score. Built solo for the Band of Agents Hackathon (lablab.ai, June 2026) | LangGraph, LangChain, Groq, Flask |
+| UMER | Fully local personal AI agent running entirely on-device on an RTX 3060 — persistent vector memory, smart query routing, voice input, and automated slide generation, with zero cloud dependency | Ollama, ChromaDB, Whisper, Stable Diffusion |
 | [Depression Screening ML](https://github.com/azlaan428/instrumentation-project) | Random Forest classifier using keystroke dynamics + linguistic features validated against PHQ-9. ~87.5% accuracy, ROC-AUC 0.905 | Python, scikit-learn, MySQL, Streamlit |
 | [Trauma Surgeon: Golden Hour](https://github.com/azlaan428/trauma-surgeon) | VR trauma surgery simulator with physiological state machines, haptic feedback, and holographic HUD | Unity 6, C#, Meta Quest 3 |
 | [EEG GUI](https://github.com/aatika22660-lang/EEG_gui) | MATLAB application with 10 analysis tabs including wavelet denoising, adaptive filtering, and signal merging | MATLAB R2022b |
 | [LFR Robot](https://github.com/azlaan428) | PID-controlled line-following robot with 5-sensor TCRT5000 array | Arduino Uno, C++, L298N |
+| [PHANTOM](https://github.com/azlaan428/Phantom) *(Archived)* | MVP for a founder/startup signal scoring platform with automated GitHub and ProductHunt data ingestion. Validated locally; shelved after MVP validation | Flask, LangGraph, GitHub REST API |
 
 ---
 
 ## 🎯 Current Objectives
 
-- Building PHANTOM for the lablab.ai "Web Data UNLOCKED" hackathon (May 25–31, 2026)
-- Actively seeking AI/ML Engineering internships in Karachi
+- Applying to international research internship programs for summer 2026 — submitted to MPIIB Berlin and INSAIT, with GIST, KAUST VSRP, and MBZUAI UGRIP in progress
+- Completed VERDICT for the Band of Agents Hackathon and ARIA for the AMD Developer Hackathon 2026
 - Expanding my ML knowledge via Andrej Karpathy's "Neural Networks: Zero to Hero"
-- Planning EDITH-inspired smart glasses as Final Year Project (Jan 2027)
+- Designing an EDITH-inspired smart glasses Final Year Project — bone conduction audio, micro-OLED projection, and wireless offload to a Jetson Orin NX, framed around dementia and epilepsy monitoring
 
 ---
 
