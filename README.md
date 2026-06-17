@@ -16,7 +16,7 @@
 
 ## About Me
 
-5th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Currently hunting for AI/ML engineering internships in Karachi.
+6th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Currently hunting for AI/ML engineering internships in Karachi.
 
 - 🔬 Research in ML-based mental health screening & VR medical simulation
 - 🤖 Passionate about embedded systems, robotics, and agentic AI pipelines
