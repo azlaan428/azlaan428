@@ -6,7 +6,7 @@
 
 *Ziauddin University, Karachi, Pakistan · Expected Graduation: December 2027*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-azlaan-b2995a317/)
 [![GitHub followers](https://img.shields.io/github/followers/azlaan428?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/azlaan428)
 ![Profile Views](https://komarev.com/ghpvc/?username=azlaan428&style=for-the-badge&color=blueviolet)
 
