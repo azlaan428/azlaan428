@@ -16,12 +16,12 @@
 
 ## About Me
 
-6th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Currently a Clinical Intern in the CyberKnife Radiosurgery Unit at JPMC, and applying to international research internship programs for summer 2026.
+6th-semester Biomedical Engineering student and Student Team Lead at Ziauddin University. I build things at the intersection of ML, embedded systems, and biomedical applications — from depression screening pipelines to VR surgery simulators. Completed a clinical internship in the CyberKnife Radiosurgery Unit at JPMC, and currently working remotely as a Full Stack Developer at Evu Inc.
 
 - 🔬 Research in ML-based mental health screening & VR medical simulation
 - 🤖 Passionate about embedded systems, robotics, and agentic AI pipelines
 - 📡 Freelance math tutor (O-Level & SAT) on the side
-- 🥽 Designing an EDITH-inspired smart glasses system as my Final Year Project, focused on neurological monitoring (dementia and epilepsy)
+- 🏥 Building a Baymax-inspired healthcare companion robot as my Final Year Project — a hardware chassis (SolidWorks) paired with an AI companion layer
 
 ---
 
@@ -62,10 +62,11 @@
 
 ## 🎯 Current Objectives
 
-- Applying to international research internship programs for summer 2026 — submitted to MPIIB Berlin and INSAIT, with GIST, KAUST VSRP, and MBZUAI UGRIP in progress
+- Working remotely as a Full Stack Developer at Evu Inc, contributing to the SalesFam product
+- Building a Baymax-inspired healthcare companion robot as my Final Year Project — combining a hardware build (chassis design underway in SolidWorks) with an AI companion layer
+- Applied to international research programs for summer 2026 — MPIIB Berlin, INSAIT, GIST, KAUST VSRP, and MBZUAI UGRIP
 - Completed VERDICT for the Band of Agents Hackathon and ARIA for the AMD Developer Hackathon 2026
 - Expanding my ML knowledge via Andrej Karpathy's "Neural Networks: Zero to Hero"
-- Designing an EDITH-inspired smart glasses Final Year Project — bone conduction audio, micro-OLED projection, and wireless offload to a Jetson Orin NX, framed around dementia and epilepsy monitoring
 
 ---
 
@@ -95,3 +96,5 @@
 *"Build things that matter."*
 
 </div>
+
+---
