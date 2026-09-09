@@ -72,16 +72,6 @@
 
 ---
 
-## 🎯 Current Objectives
-
-- Working remotely as a Full Stack Developer at Evu Inc, contributing to the SalesFam product
-- Building a Baymax-inspired healthcare companion robot as my Final Year Project — combining a hardware build (chassis design underway in SolidWorks) with an AI companion layer
-- Applied to international research programs for summer 2026 — MPIIB Berlin, INSAIT, GIST, KAUST VSRP, and MBZUAI UGRIP
-- Completed VERDICT for the Band of Agents Hackathon and ARIA for the AMD Developer Hackathon 2026
-- Expanding my ML knowledge via Andrej Karpathy's "Neural Networks: Zero to Hero"
-
----
-
 ## 🏆 Competitions
 
 - 🤖 **IBA PRO-BATTLE '26** — Line-Following Robot (Participation)
