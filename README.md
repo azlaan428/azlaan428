@@ -85,9 +85,9 @@
 
 ![Azlaan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=azlaan428&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azlaan428&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=azlaan428&layout=compact&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azlaan428&theme=tokyo-night&hide_border=true)
 
 </div>
 
